@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NoticeBoard.iml" filepath="$PROJECT_DIR$/NoticeBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoticeBoard-grailsPlugins.iml" filepath="$PROJECT_DIR$/NoticeBoard-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoticeBoard-master.iml" filepath="$PROJECT_DIR$/NoticeBoard-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoticeBoard-master-grailsPlugins.iml" filepath="$PROJECT_DIR$/NoticeBoard-master-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
